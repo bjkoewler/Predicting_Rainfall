@@ -1,4 +1,4 @@
-As part of the IBM AI Engineer Certification, this final project required the construction of several models, including 
+As part of the IBM AI Engineer Certification course in machine learning, this final project required the construction of several models, including 
 * Linear Regression
 * K-Nearest Neighbors
 * Decision Tree
